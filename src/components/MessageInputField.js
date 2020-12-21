@@ -9,7 +9,7 @@ const useStyles = makeStyles({
 
 const MessageInputField = () => {
     const classes = useStyles();
-    return <div className={classees.root}>MessageInputField</div>
+    return <div className={classes.root}>MessageInputField</div>
 }
 
 export default MessageInputField;
